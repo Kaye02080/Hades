@@ -253,7 +253,7 @@ public class userLoginF extends javax.swing.JFrame {
                   usf.fn.setText(""+rs.getString("u_fname"));
                   usf.ln.setText(""+rs.getString("u_lname"));
                   usf.mail.setText(""+rs.getString("u_email"));
-                  usf.us.setText(""+rs.getString("u_username"));
+                  usf.Un.setText(""+rs.getString("u_username"));
                   usf.pw.setText(""+rs.getString("u_password"));
                   usf.ut.setSelectedItem(""+rs.getString("u_type"));
                   usf.stat.setSelectedItem(""+rs.getString("u_status"));

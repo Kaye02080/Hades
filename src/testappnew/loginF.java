@@ -215,7 +215,7 @@ public class loginF extends javax.swing.JFrame {
         jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 120, 100, 100));
 
         getContentPane().add(jPanel1);
-        jPanel1.setBounds(0, 80, 580, 230);
+        jPanel1.setBounds(10, 80, 580, 230);
         getContentPane().add(jPanel6);
         jPanel6.setBounds(0, -40, 10, 10);
 
